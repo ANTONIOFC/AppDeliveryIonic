@@ -1,0 +1,7 @@
+{
+  "name": "AppDeliveryIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
